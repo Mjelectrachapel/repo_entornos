@@ -1,0 +1,5 @@
+Comandos Git
+
+
+
+git innit --> inicializa un repositorio local de Git
