@@ -3,3 +3,4 @@ Comandos Git
 
 
 git innit --> inicializa un repositorio local de Git
+git config --global init.defaultBranch main --> pone que cuando se inicialice un repositorio se llame main 
